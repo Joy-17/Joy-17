@@ -13,7 +13,7 @@
 
 
 ### SoftWares:
-![SoftWares](https://skillicons.dev/icons?i=idea,notion,postman,vscode)
+![SoftWares](https://skillicons.dev/icons?i=idea,postman,vscode,notion)
 
 ### GitHub Stats:
 <details>
